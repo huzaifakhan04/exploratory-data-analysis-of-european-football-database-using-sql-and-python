@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of European Football Database (2008 ‒ 2016) Using SQL & Python:
 
-This repository contains results of an exploratory data analysis with visualisation performed on nearly 11,000,000 entries across the European Soccer (Football) Database, based in the SQLite database engine, from Kaggle using SQL (SQLite) and Python.
+This repository contains results of an exploratory data analysis with visualisation performed on nearly 11,000,000 entries across the European Soccer (Football) Database, based in the SQLite database engine, from Kaggle using SQL (SQLite) in Python.
 
 ### Dependencies:
 
